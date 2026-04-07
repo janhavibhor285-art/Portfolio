@@ -2,7 +2,7 @@
 Portfolio using Next.js and Framer Motion.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-‼️ Folder Structure
+# ‼️ Folder Structure
 
 Here is the folder structure of this app.
 
@@ -85,7 +85,7 @@ modern-portfolio/
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-  🧰 Getting Started
+# 🧰 Getting Started
   
 1. Make sure Git and NodeJS is installed.
 
@@ -98,14 +98,14 @@ modern-portfolio/
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-⚙️ Tech Stack
+# ⚙️ Tech Stack
 
 React JS Next JS JavaScript Tailwind CSS Netlify
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-💎 Acknowledgements
+# 💎 Acknowledgements
 
 Useful resources and dependencies that are used in Modern Portfolio.
 
