@@ -1,6 +1,8 @@
 # Portfolio
 Portfolio using Next.js and Framer Motion.
-Folder Structure
+
+
+‼️ Folder Structure
 Here is the folder structure of this app.
 
 modern-portfolio/
