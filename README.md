@@ -83,7 +83,10 @@ modern-portfolio/
   |- variants.js
 
 
+
+
   🧰 Getting Started
+  
 1. Make sure Git and NodeJS is installed.
 
 2. Clone this repository to your local computer.
@@ -93,12 +96,19 @@ modern-portfolio/
 4. Now app is fully configured 👍 and you can start using this app using npm run dev or yarn dev.
 
 
+
+
+
 ⚙️ Tech Stack
+
 React JS Next JS JavaScript Tailwind CSS Netlify
 
 
 
+
+
 💎 Acknowledgements
+
 Useful resources and dependencies that are used in Modern Portfolio.
 
 * @next/font: ^13.4.4
@@ -131,4 +141,4 @@ Useful resources and dependencies that are used in Modern Portfolio.
   
 * tailwindcss: ^3.3.2
   
-*tsparticles: ^2.9.3
+* tsparticles: ^2.9.3
