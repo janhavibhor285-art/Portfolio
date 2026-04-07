@@ -43,7 +43,6 @@ modern-portfolio/
   |- variants.js
 
 
-
   🧰 Getting Started
 1. Make sure Git and NodeJS is installed.
 
