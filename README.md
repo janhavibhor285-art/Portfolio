@@ -80,18 +80,18 @@ modern-portfolio/
 
 Key libraries and tools used in this project:
 
-next – v15.5.10
-react – v18.2.0
-framer-motion – v10.12.16
-tailwindcss – v3.3.2
-react-icons – v4.8.0
-swiper – v12.1.2
-react-tsparticles – v2.9.3
-tsparticles – v2.9.3
-react-countup – v6.4.2
-eslint – v8.41.0
-postcss – v8.4.23
-autoprefixer – v10.4.14
+* **next** – v15.5.10
+* **react** – v18.2.0
+* **framer-motion** – v10.12.16
+* **tailwindcss** – v3.3.2
+* **react-icons** – v4.8.0
+* **swiper** – v12.1.2
+* **react-tsparticles** – v2.9.3
+* **tsparticles** – v2.9.3
+* **react-countup** – v6.4.2
+* **eslint** – v8.41.0
+* **postcss** – v8.4.23
+* **autoprefixer** – v10.4.14
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
