@@ -2,11 +2,12 @@
 A modern and responsive Portfolio Website built using Next.js and Framer Motion, showcasing projects, services, and personal branding with smooth animations and clean UI.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 📁 Folder Structure
+# ## 📁 Folder Structure
 
+```
 modern-portfolio/
 │
-├── components/                # Reusable UI components
+├── components/        # Reusable UI components
 │   ├── Avatar.jsx
 │   ├── Bulb.jsx
 │   ├── CardLeft.jsx
@@ -24,30 +25,30 @@ modern-portfolio/
 │   ├── Transition.jsx
 │   └── WorkSlider.jsx
 │
-├── pages/                     # Application pages (Next.js routing)
+├── pages/             # Application pages (Next.js routing)
+│   ├── _app.jsx
+│   ├── index.jsx
 │   ├── about/
 │   ├── contact/
 │   ├── services/
 │   ├── testimonials/
-│   ├── work/
-│   ├── _app.jsx
-│   └── index.jsx
+│   └── work/
 │
-├── public/                    # Static assets
+├── public/            # Static assets
+├── styles/            # Global styles
+│   ├── globals.css
+│   └── variants.js
 │
-├── styles/                    # Global styles
-│   └── globals.css
-│
-├── variants.js                # Animation variants (Framer Motion)
-│
-├── .eslintrc.json             # ESLint configuration
+├── .eslintrc.json
 ├── .gitignore
-├── netlify.toml               # Netlify deployment config
 ├── next.config.js
+├── netlify.toml
 ├── package.json
 ├── package-lock.json
 ├── postcss.config.js
 └── tailwind.config.js
+```
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
