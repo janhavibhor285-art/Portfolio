@@ -95,9 +95,10 @@ Key libraries and tools used in this project:
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🌍 Deployment
+# 🌍 Deployment
 
 This project can be deployed easily using:
 
-Netlify (configured via netlify.toml)
-Vercel (recommended for Next.js)
+* **Netlify** (configured via `netlify.toml`)
+* **Vercel** (recommended for Next.js)
+
