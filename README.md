@@ -1,6 +1,11 @@
 # Portfolio
-A modern and responsive Portfolio Website built using Next.js and Framer Motion, showcasing projects, services, and personal branding with smooth animations and clean UI.
----------------------------------------------------------------------------------------------------------------------------------------------------------
+## A modern and responsive Portfolio Website built using Next.js and Framer Motion, showcasing projects, services, and personal branding with smooth animations and clean UI.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+# 🌍 Live Demo
+
+👉 https://janhavibhor-portfolio.netlify.app/
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # 📁 Folder Structure
 
