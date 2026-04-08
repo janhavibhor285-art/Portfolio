@@ -7,9 +7,7 @@ Portfolio using Next.js and Framer Motion.
 Here is the folder structure of this app.
 
 modern-portfolio/
-
   |- components/
-  
     |-- Avatar.jsx
     
     |-- Bulb.jsx
