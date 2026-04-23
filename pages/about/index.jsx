@@ -66,7 +66,7 @@ export const aboutData = [
     info: [
       {
         title: "UI/UX Designer – Freelance (Self-Employed)",
-        stage: "Jan 2024 – Jan 2026",
+        stage: "Jan 2022 – Present",
         bullets: [
           "Interactive Design: Created interactive wireframes and prototypes for web and mobile applications.",
           "User Research & Testing: Conducted user research and A/B testing to improve usability and engagement.",
