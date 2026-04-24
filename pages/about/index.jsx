@@ -66,7 +66,7 @@ export const aboutData = [
     info: [
       {
         title: "UI/UX Designer – Freelance (Self-Employed)",
-        stage: "Jan 2022 – Present",
+        stage: "Jan 2022 –   Jan 2026",
         bullets: [
           "Interactive Design: Created interactive wireframes and prototypes for web and mobile applications.",
           "User Research & Testing: Conducted user research and A/B testing to improve usability and engagement.",
@@ -253,7 +253,7 @@ const About = () => {
             <div className="flex flex-1 xl:gap-x-6">
               <div className="relative flex-1 after:w-[1px] after:h-full after:bg-white/10 after:absolute after:top-0 after:right-0">
                 <div className="text-2xl xl:text-4xl font-extrabold text-accent mb-2">
-                  <CountUp start={0} end={4} duration={5} />
+                  <CountUp start={0} end={2} duration={5} />
                 </div>
                 <div className="text-xs uppercase tracking-[1px] leading-[1.4] max-w-[100px]">Years of experience.</div>
               </div>
